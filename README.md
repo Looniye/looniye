@@ -7,7 +7,7 @@ IOS Developer
 Developer with glowing eyes
 
 *   🌍  I'm based in Tyumen
-*   ✉️  You can contact me at [looniye123@gmail.com]
+*   ✉️  You can contact me at [looniye123@gmail.com](mailto:looniye123@gmail.com)
 *   🚀  I'm currently studying at [Yandex Practicum](https://practicum.yandex.ru)            
 ### Socials
 <p align="left">
