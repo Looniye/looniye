@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋 My name is Artem Krikunenko
+============================
 
-<!--
-**Looniye/looniye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IOS Developer
+-------------
 
-Here are some ideas to get you started:
+Developer with glowing eyes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Tyumen
+*   ✉️  You can contact me at [looniye123@gmail.com]
+*   🚀  I'm currently studying at [Yandex Practicum](https://practicum.yandex.ru)            
+### Socials
+<p align="left">
+<a href="https://discord.com/users/212966436790861834" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/looniye" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
