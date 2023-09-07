@@ -1,5 +1,4 @@
 ### Hi 👋 My name is Artem Krikunenko
--------------------------------------
 
 IOS Developer
 -------------
